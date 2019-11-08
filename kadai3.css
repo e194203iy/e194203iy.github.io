@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color:red;
+    font-family: Comic Sans MS ;
+    background-color:aquamarine
+    
+}
+h2{
+    text-align: center;
+    color:red;
+    font-family: Comic Sans MS ;
+    background-color:aquamarine
+    
+}
+h3{
+    color: white;
+    
+    
+}
+p{
+    font-size: 60px;
+    color: white
+}
+body{
+    background-image: url("../image/oshare4.jpg");
+   
+    /*background-repeat:no-repeat; */   
+    background-attachment: fixed;
+}
