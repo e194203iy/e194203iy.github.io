@@ -1,0 +1,41 @@
+
+body{
+    background-image: url("../image/ikatui.jpg");
+    
+}
+h1 {
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+h2#oneok {
+    background-color: white;
+    font-weight: bold;
+    color:yellowgreen;
+    font-family: georgia;
+    text-align: center;
+    
+}
+p.one{
+    
+    color: white;
+    
+}
+h2#disco {
+    background-color: black;
+    color:cornflowerblue;
+    font-family: impact;
+    text-align: center;
+}
+p.tele {
+    color:white;  
+}
+h2 {
+    text-align: center;
+    background-color: forestgreen;
+    color: brown;
+}
+a {
+    background-color: azure;
+    font-size: 30px;
+}
